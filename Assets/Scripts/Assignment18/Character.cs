@@ -44,7 +44,5 @@ namespace Assignment18
             this.Attack(damage, target);
             Debug.Log("Attack type : " + attackType);
         }
-
-
     }
 }
